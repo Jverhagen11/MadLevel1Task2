@@ -9,4 +9,5 @@
     <string name="TrueLetter">T</string>
     <string name="btn_submit">Submit</string>
     <string name="correct">Correct Answers!</string>
+    <string name="value">T/F</string>
 </resources>
