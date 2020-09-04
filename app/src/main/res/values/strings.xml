@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="title">Conjuction (AND)</string>
+    <string name="Lcolumn1">A</string>
+    <string name="MiddleColumn1">B</string>
+    <string name="RightColumn1">A ^ B</string>
+    <string name="Input1" />
+    <string name="falseLetter">F</string>
+    <string name="TrueLetter">T</string>
+    <string name="btn_submit">Submit</string>
+    <string name="correct">Correct Answers!</string>
+</resources>
